@@ -1,0 +1,101 @@
+.button1 {
+    background-color:darkgreen; 
+    border: none;
+    color: black;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+.button1:hover{
+    background-color:green; 
+    border: none;
+    color: white;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+.button2 {
+    background-color:blue; 
+    border: none;
+    color: black;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+.button2:hover{
+    background-color:aqua; 
+    border: none;
+    color: white;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.button3 {
+    background-color:bisque; 
+    border: none;
+    color: black;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+.button3:hover{
+    background-color:red; 
+    border: none;
+    color: white;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.button4 {
+    background-color:brown; 
+    border: none;
+    color:white;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+.button4:hover{
+    background-color:bisque; 
+    border: none;
+    color: black;
+    padding: 20px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}

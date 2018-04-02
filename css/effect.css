@@ -1,0 +1,28 @@
+.effect{
+height:130px;
+width:130px;
+border-radius:20px;
+transition:height 4s, width 2s, transform 2s;
+background-color:yellow;
+}
+
+.effect:hover{
+height:600px;
+width:600px;
+transform:rotate(620deg);
+background-color:aqua;
+}
+
+.effect2{
+height:130px;
+width:130px;
+transition:height 2s, width 4s, transform 2s;
+background-color:green;
+}
+
+.effect2:hover{
+height:600px;
+width:600px;
+transform:rotate(620deg);
+background-color:red;
+}

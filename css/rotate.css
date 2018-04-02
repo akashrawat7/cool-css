@@ -1,0 +1,13 @@
+.rotate{
+height:150px;
+width:150px;
+transition:height 4s, width 2s, transform 50s;
+background-color:olive;
+}
+
+.rotate:hover{
+height:150px;
+width:150px;
+transform:rotate(7620deg);
+background-color:brown;
+}
